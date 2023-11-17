@@ -283,9 +283,9 @@ function test(){
  
  
  function zoomRegistration(firstName, lastName, email, phoneNumber){
-   var clientId = 'n_xcZidmQ6W1w3XsN9b1w';
-   var clientSecret = 'ouulczwHki6fofVGD3qh9VgW1lo0B1eP';
-   var meetingId = '86460243111';
+   var clientId = 'Your-Zoom-api-key';
+   var clientSecret = 'Your-Zoom-api-secret';
+   var meetingId = 'Your-zoom-meeting-ID';
    
    var registrantId = Utilities.getUuid();
    
